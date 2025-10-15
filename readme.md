@@ -53,4 +53,5 @@ This implementation was created with the help of the following resources:
 
 *   **Wikipedia - Hill Cipher:** [https://en.wikipedia.org/wiki/Hill_cipher](https://en.wikipedia.org/wiki/Hill_cipher)
 *   **Interactive Mathematics - Hill Cipher:** [https://crypto.interactive-maths.com/hill-cipher.html](https://crypto.interactive-maths.com/hill-cipher.html)
-The crypto.interactive website helped the most with edge cases, for example filing the the provided key with "X" if it wasnt matching the size of the key.
+*   
+The crypto.interactive website helped a lot with edge cases, for example filing the the provided key with "X" if it wasnt matching the size of the key.
